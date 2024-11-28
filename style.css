@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+.round{
+  font-size: 12px;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+}
+
+.round-f{
+  letter-spacing: -3px;
+  background: rgb(72, 72, 197);
+}
+
+.round-t{
+  background: black;
+}
+
+.round-l{
+  background: blue;
+}
+
+.round-y{
+  background: red;
+}
